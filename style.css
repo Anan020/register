@@ -1,0 +1,43 @@
+
+  .contrainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 90vw;
+    margin: 25px 60px 0px;
+  }
+  h1{
+    text-align: center;
+    margin-bottom: px;
+    box-sizing: border-box;
+    color: white;
+  }
+  .resumi{
+    background:#13d113;
+    width: 25vw;
+    height: 32vw;
+    border-radius: 10px;
+    margin: 0 auto;
+    padding: 0px 20px 0px;
+    align-items: center;
+  }
+  .input{
+   display: block;
+
+    
+  }  
+  .write{
+    width: 100%;
+    padding: 10px;
+    border:none;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    box-sizing: border-box;
+    font-size: 16px;
+
+  }
+  .btn{
+    background: #1041f2;
+    color: white;
+    cursor: pointer;
+  }
